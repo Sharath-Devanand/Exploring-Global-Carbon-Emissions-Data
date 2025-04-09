@@ -32,7 +32,7 @@ There has been a consistent rise in the total annual CO2 emissions from 1950 to 
 The CO2 emissions per capita for the income groups have stayed stable until 2000 for the low, lower-middle, and upper-middle income groups. Post 2000, there has been a steady increase in the CO2 emissions for the upper-middle income countries with the lower and lower-middle continuing with stagnant emissions over this time period. High-income countries have consistently remained at a higher level in CO2 emissions per capita with a high margin from 1950. Following a gradual increase in the 1960-1970 decade, the CO2 emissions per capita have had a significant variance since 2020.
 
 <p align="center">
-  <img src="https://github.com/Sharath-Devanand/Airline-loyalty-analysis/blob/master/imgs/airline_schema.png?raw=true" width="60%">
+  <img src="https://github.com/Sharath-Devanand/Exploring-Global-Carbon-Emissions-Data/blob/master/imgs/q1.png?raw=true" width="60%">
 </p>
 
 
@@ -45,7 +45,7 @@ A clear conclusion by comparing the plots is the margin between the high-income 
 
 
 <p align="center">
-  <img src="https://github.com/Sharath-Devanand/Airline-loyalty-analysis/blob/master/imgs/airline_schema.png?raw=true" width="60%">
+  <img src="https://github.com/Sharath-Devanand/Exploring-Global-Carbon-Emissions-Data/blob/master/imgs/q2.png?raw=true" width="60%">
 </p>
 
 
@@ -65,7 +65,7 @@ In the scenario of the top 5 countries for global CO2 emissions per capita, it i
 
 
 <p align="center">
-  <img src="https://github.com/Sharath-Devanand/Airline-loyalty-analysis/blob/master/imgs/airline_schema.png?raw=true" width="60%">
+  <img src="https://github.com/Sharath-Devanand/Exploring-Global-Carbon-Emissions-Data/blob/master/imgs/q3.png.png?raw=true" width="60%">
 </p>
 
 
@@ -76,7 +76,7 @@ A salient inference from the comparison of GDP per capita and CO2 per capita is 
 
 
 <p align="center">
-  <img src="https://github.com/Sharath-Devanand/Airline-loyalty-analysis/blob/master/imgs/airline_schema.png?raw=true" width="60%">
+  <img src="https://github.com/Sharath-Devanand/Exploring-Global-Carbon-Emissions-Data/blob/master/imgs/q4.png.png?raw=true" width="60%">
 </p>
 
 
