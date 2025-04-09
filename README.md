@@ -65,7 +65,7 @@ In the scenario of the top 5 countries for global CO2 emissions per capita, it i
 
 
 <p align="center">
-  <img src="https://github.com/Sharath-Devanand/Exploring-Global-Carbon-Emissions-Data/blob/master/imgs/q3.png.png?raw=true" width="60%">
+  <img src="https://github.com/Sharath-Devanand/Exploring-Global-Carbon-Emissions-Data/blob/master/imgs/q3.png?raw=true" width="60%">
 </p>
 
 
@@ -76,7 +76,7 @@ A salient inference from the comparison of GDP per capita and CO2 per capita is 
 
 
 <p align="center">
-  <img src="https://github.com/Sharath-Devanand/Exploring-Global-Carbon-Emissions-Data/blob/master/imgs/q4.png.png?raw=true" width="60%">
+  <img src="https://github.com/Sharath-Devanand/Exploring-Global-Carbon-Emissions-Data/blob/master/imgs/q4.png?raw=true" width="60%">
 </p>
 
 
