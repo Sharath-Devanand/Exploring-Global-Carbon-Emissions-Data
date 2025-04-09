@@ -9,13 +9,18 @@ The motivation behind this project is to better understand the environmental imp
 
 ## Executive Summary
 
+This project explores global CO₂ emissions trends from 1950 to 2020. Emissions have steadily risen, especially in upper-middle income countries, which now surpass high-income nations in total emissions. However, high-income countries still lead in per capita emissions, highlighting inequality.
+
+China has become the top emitter, overtaking the U.S., while India shows rapid growth. Emissions strongly correlate with GDP—wealthier nations emit more. Over time, wealth inequality has widened, with rich countries growing richer and poorer nations lagging behind.
+
+The analysis highlights the link between economic growth and environmental impact, emphasizing the need for sustainable development.
 
 
 ## Data Description
-The data is sourced from **Our World in Data** and includes CO2 emissions data for various countries and regions from **1950 to 2021**. Key attributes include:  
+The data is sourced from 'Our World in Data' and includes CO2 emissions data for various countries and regions from 1950 to 2021. Key attributes include:  
 - country
 - year
-- co2 (Total CO₂ emissions)
+- co2 (Total CO2 emissions)
 - population
 - gdp
 
@@ -93,5 +98,5 @@ From the box plots over the years, it can be inferred from the increase in the m
 ## Credits
 
 - Dataset by [Our World in Data](https://github.com/owid/co2-data)
-- Assignment for COM6018 - Data Analysis & Visualisation (The University of Sheffield)
+- Assignment for COM6018 - Data Science with Python (The University of Sheffield)
 - Analysis by Sharath Devanand
