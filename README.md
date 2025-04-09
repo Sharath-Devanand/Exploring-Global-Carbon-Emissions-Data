@@ -1,6 +1,6 @@
 # Exploring-Global-Carbon-Emissions
 
-## Overview
+## Project Background
 
 This project analyzes global **CO2 emissions** from fossil fuels and cement production, exploring trends across income groups, countries, and economic indicators. The analysis is conducted using Python and Jupyter Notebooks, leveraging pandas, numpy, matplotlib, and seaborn for data processing and visualization.  
 
